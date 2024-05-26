@@ -1,3 +1,5 @@
+//cleanstate code
+
 package entity;
 
 public class CleanState implements RoomState {
